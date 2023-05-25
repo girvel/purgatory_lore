@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e98405e9d2685c00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Предметы/Лампа Арклея.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Персонажи/Дракон Вечности.md",
+                "file": "Предметы/Лампа Арклея.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Персонажи/Дракон Вечности.md",
+                "file": "Предметы/Лампа Арклея.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Персонажи/Дракон Вечности.md"
+                "file": "Предметы/Лампа Арклея.md"
               }
             }
           }
@@ -155,9 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54c80382ab3b9558",
+  "active": "e98405e9d2685c00",
   "lastOpenFiles": [
     "Персонажи/Дракон Вечности.md",
+    "Предметы/Лампа Арклея.md",
+    "Предметы",
     "Персонажи"
   ]
 }
